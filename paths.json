@@ -1,8 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/oracle-netsuite-erp/:/",
+    "/content/oracle-netsuite-erp/configuration:/.helix/config.json",
+    "/content/oracle-netsuite-erp/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/oracle-netsuite-erp/"
   ]
 }
