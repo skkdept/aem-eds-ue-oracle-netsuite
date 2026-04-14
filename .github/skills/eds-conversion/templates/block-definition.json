@@ -1,0 +1,18 @@
+{
+  "definitions": [
+    {
+      "title": "Block Display Name",
+      "id": "block-id",
+      "description": "Description of what this block does",
+      "tags": ["component", "layout"],
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block",
+            "template": "block-id"
+          }
+        }
+      }
+    }
+  ]
+}
